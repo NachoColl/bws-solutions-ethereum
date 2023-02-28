@@ -4,8 +4,11 @@ Ethereum contracts you can call using Blockchain Web Services.
 
 ## Database
 
-### BWS_DatabaseImmutable (Version 2)
+### BWS_DatabaseImmutable 
 
+#### Version
+
+2
 #### Network(s) Contract Addresses
 
 | Account Owner                              | Contract                                                                                                |
@@ -13,8 +16,11 @@ Ethereum contracts you can call using Blockchain Web Services.
 | 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xEF28790d1C8ac0833e8c05BB4344e479Da8a4Dd3)                 |
 | 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [etherscan.io](https://etherscan.io/address/0x58ca3f44cf5c84c1c29591a483be3288d0a01b7c)                 |
 
-### BWS_DatabaseMmutable (Version 1)
+### BWS_DatabaseMutable
 
+#### Version
+
+1
 #### Network(s) Contract Addresses
 
 | Account Owner                              | Contract                                                                                                |
