@@ -11,10 +11,11 @@ Ethereum contracts you can call using Blockchain Web Services.
 2
 #### Network(s) Contract Addresses
 
-| Account Owner                              | Contract                                                                                                |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xEF28790d1C8ac0833e8c05BB4344e479Da8a4Dd3)                 |
-| 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [etherscan.io](https://etherscan.io/address/0x58ca3f44cf5c84c1c29591a483be3288d0a01b7c)                 |
+| Network Id | Contract Address                                                                                                                   | Version |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| ethereum   | [0x58ca3f44cf5c84c1c29591a483be3288d0a01b7c](https://etherscan.io/address/0x58ca3f44cf5c84c1c29591a483be3288d0a01b7c)              | 2       |
+| sepolia    | [0xEF28790d1C8ac0833e8c05BB4344e479Da8a4Dd3](https://sepolia.etherscan.io/address/0xEF28790d1C8ac0833e8c05BB4344e479Da8a4Dd3) | 2       |
+
 
 ### BWS_DatabaseMutable
 
@@ -23,10 +24,10 @@ Ethereum contracts you can call using Blockchain Web Services.
 1
 #### Network(s) Contract Addresses
 
-| Account Owner                              | Contract                                                                                                |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [sepolia.etherscan.io](https://sepolia.etherscan.io/address/0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7) |
-| 0x9089Db83F0590EC2eD01A5Eb4F8584Dd6F4bDaC7 | [etherscan.io](https://etherscan.io/address/0x58ca3f44cF5c84C1C29591A483be3288D0A01b7C)                 |
+| Network Id | Contract Address                                                                                                                   | Version |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| ethereum   | [0x1aFEe6DD9A1D4af90c39CD8B09296FC505beA00d](https://etherscan.io/address/0x1aFEe6DD9A1D4af90c39CD8B09296FC505beA00d)              | 1       |
+| sepolia    | [0x58ca3f44cF5c84C1C29591A483be3288D0A01b7C](https://sepolia.etherscan.io/address/0x58ca3f44cF5c84C1C29591A483be3288D0A01b7C) | 1       |
 
 ## How To
 
