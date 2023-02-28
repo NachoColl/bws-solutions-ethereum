@@ -1,0 +1,16 @@
+{
+  "name": "org.blockchainwebservices.contracts.database.immutable.ethereum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "solc": "^0.8.7-fixed",
+    "web3": "^1.5.2"
+  }
+}
